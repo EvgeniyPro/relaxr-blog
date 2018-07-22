@@ -4,9 +4,9 @@ Tip: You should not have duplicate style blocks. Look out for styles in the list
 
 background color: #f0efef
 yellow: #f9e42e
-dark blue: #033048
+dark blue: #033048	
 light grey: #606161
-almost black: #121212
+almost black: #121212 
 
 Font: Open Sans (https://fonts.google.com/specimen/Open+Sans)
 Weight: Light(200), Light Italic(200, italic), Semibold(600), Extrabold(800)
